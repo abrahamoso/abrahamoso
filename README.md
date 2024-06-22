@@ -17,7 +17,8 @@ class Abraham:
 - 📫 How to reach me: osorio_abrahamm@icloud.com
 - ⚡ Fun fact: I practice Jiu Jitsu and Wrestling on my free time.
 
-🎓 I'm currently a student at Los Angeles Valley College studying Computer Science with ambitions of becoming a Software Engineer. I enjoy coding and learning more about technology. I have experience participating in various programs where I work on real-world projects and continuously strive to enhance my skills.
+🎓 I'm currently a student at Los Angeles Valley College studying Computer Science with ambitions of becoming a Software Engineer. I enjoy coding and learning more about technology.
+I have experience participating in various programs where I work on real-world projects and continuously strive to enhance my skills.
 
 
 
