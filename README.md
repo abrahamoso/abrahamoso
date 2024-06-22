@@ -9,12 +9,12 @@ class Abraham:
         self.interests = ["Coding", "Artificial Intelligence", "Software Development"]
 
 ```
-About me
+### About me
 🎓 I'm a Computer Science student at Los Angeles Valley College with ambitions of becoming a Software Engineer.
  I enjoy coding, learning about technology, and working on real-world projects through various programs.
 
  Current Focus
-* 🔭 Developing a REST API to predict drug interactions based on chemical structures.
+* 🔭 Developing a REST API to predict drug interactions based on chemical structures and name of drug.
 * 🌱 Enhancing my Python skills.
 * 🖥️ Working on LeetCode 
 * 👯 Looking to collaborate on open-source projects.
@@ -22,4 +22,7 @@ About me
 ### Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,html,django)](https://skillicons.dev)
- 
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,notion,apple)](https://skillicons.dev)
