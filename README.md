@@ -8,10 +8,17 @@ class Abraham:
         self.major = "Computer Science"
         self.interests = ["Coding", "Artificial Intelligence", "Software Development"]
 
+```
+About me
 🎓 I'm a Computer Science student at Los Angeles Valley College with ambitions of becoming a Software Engineer.
  I enjoy coding, learning about technology, and working on real-world projects through various programs.
 
-Current Focus
+ Current Focus
 🔭 Developing a REST API to predict drug interactions based on chemical structures.
 🌱 Enhancing my Python skills.
+🖥️ Working on LeetCode 
 👯 Looking to collaborate on open-source projects.
+
+Skills 
+[![My Skills](https://skillicons.dev/icons?i=py,,cpp,html,django)](https://skillicons.dev)
+ 
