@@ -19,6 +19,7 @@ About me
 🖥️ Working on LeetCode 
 👯 Looking to collaborate on open-source projects.
 
-Skills 
+### Skills 
+
 [![My Skills](https://skillicons.dev/icons?i=py,,cpp,html,django)](https://skillicons.dev)
  
