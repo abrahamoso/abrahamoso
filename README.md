@@ -14,10 +14,10 @@ About me
  I enjoy coding, learning about technology, and working on real-world projects through various programs.
 
  Current Focus
-🔭 Developing a REST API to predict drug interactions based on chemical structures.
-🌱 Enhancing my Python skills.
-🖥️ Working on LeetCode 
-👯 Looking to collaborate on open-source projects.
+* 🔭 Developing a REST API to predict drug interactions based on chemical structures.
+* 🌱 Enhancing my Python skills.
+* 🖥️ Working on LeetCode 
+* 👯 Looking to collaborate on open-source projects.
 
 ### Skills 
 
