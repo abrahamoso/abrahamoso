@@ -21,5 +21,5 @@ About me
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=py,,cpp,html,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,django)](https://skillicons.dev)
  
