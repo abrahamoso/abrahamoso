@@ -15,9 +15,9 @@ I enjoy building electronics projects, coding, and exploring the intersection of
 
  Current Focus
 * 🛠️ Creating a custom drone project using Arduino and 3D printing
-✍️ Building my personal tech blog
-🖥️ Practicing algorithmic problem-solving on LeetCode
-👯 Looking to collaborate on open-source projects
+* ✍️ Building my personal tech blog
+* 🖥️ Practicing algorithmic problem-solving on LeetCode
+* 👯 Looking to collaborate on open-source projects
 
 ### Skills 
 
