@@ -15,15 +15,15 @@ Computer Engineering student at Los Angeles Valley College, passionate about bri
 🔭 Current Projects
 Autonomous Drone Project
 
-Custom-built drone using Arduino microcontrollers
-Designed and 3D printed chassis components
-Implementing flight control algorithms
+* Custom-built drone using Arduino microcontrollers
+* Designed and 3D printed chassis components
+* Implementing flight control algorithms
 
-Personal Tech Blog
+Personal Tech Blog💻
 
-Documenting my journey in electronics and programming
-Sharing tutorials and project insights
-Built with just HTML, CSS, Javascipt
+* Documenting my journey in electronics and programming
+* Sharing tutorials and project insights
+* Built with just HTML, CSS, Javascipt
 
 ### Skills 
 
