@@ -9,15 +9,21 @@ class Abraham:
         self.interests = ["Electronics", "Embedded Systems", "Software Development", "3D Printing"]
 
 ```
-### About me
-🎓 I'm a Computer Engineering student at Los Angeles Valley College with a passion for electronics and software development.
-I enjoy building electronics projects, coding, and exploring the intersection of hardware and software through hands-on projects.
+👨‍💻 About Me
+Computer Engineering student at Los Angeles Valley College, passionate about bridging the gap between hardware and software. I specialize in embedded systems development and enjoy bringing ideas to life through 3D printing and electronics.
 
- Current Focus
-* 🛠️ Creating a custom drone project using Arduino and 3D printing
-* ✍️ Building my personal tech blog
-* 🖥️ Practicing algorithmic problem-solving on LeetCode
-* 👯 Looking to collaborate on open-source projects
+🔭 Current Projects
+Autonomous Drone Project
+
+Custom-built drone using Arduino microcontrollers
+Designed and 3D printed chassis components
+Implementing flight control algorithms
+
+Personal Tech Blog
+
+Documenting my journey in electronics and programming
+Sharing tutorials and project insights
+Built with just HTML, CSS, Javascipt
 
 ### Skills 
 
